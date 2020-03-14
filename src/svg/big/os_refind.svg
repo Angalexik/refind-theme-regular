@@ -14,7 +14,7 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="os_refind.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -34,10 +34,10 @@
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true">
@@ -76,9 +76,10 @@
      transform="translate(0,-924.36216)"
      style="display:inline">
     <path
-       style="fill:#006bc6;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 64.800781 18.960938 A 34 34 0 0 0 34.556641 35.949219 A 34 34 0 0 0 47 82.394531 A 34 34 0 0 0 76.478516 84.5625 L 89.169922 106.54492 C 90.554922 108.94381 93.60111 109.76 96 108.375 C 98.39889 106.99 99.215078 103.94381 97.830078 101.54492 L 85.132812 79.552734 A 34 34 0 0 0 93.255859 70.238281 A 4 4 0 0 0 93.443359 69.949219 A 4 4 0 0 0 91.980469 64.486328 A 4 4 0 0 0 86.517578 65.949219 A 26 26 0 0 1 51 75.466797 A 26 26 0 0 1 41.482422 39.949219 A 26 26 0 0 1 77 30.433594 A 26 26 0 0 1 89.099609 46.224609 L 84.59375 47.431641 L 90.716797 53.554688 L 96.841797 59.679688 L 99.082031 51.314453 L 101.32422 42.949219 L 96.822266 44.154297 A 34 34 0 0 0 81 23.505859 A 34 34 0 0 0 64.800781 18.960938 z "
+       style="fill:#88c0d0;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.800781,18.960938 A 34,34 0 0 0 34.556641,35.949219 34,34 0 0 0 47,82.394531 34,34 0 0 0 76.478516,84.5625 l 12.691406,21.98242 c 1.385,2.39889 4.431188,3.21508 6.830078,1.83008 2.39889,-1.385 3.215078,-4.43119 1.830078,-6.83008 L 85.132812,79.552734 a 34,34 0 0 0 8.123047,-9.314453 4,4 0 0 0 0.1875,-0.289062 4,4 0 0 0 -1.46289,-5.462891 4,4 0 0 0 -5.462891,1.462891 A 26,26 0 0 1 51,75.466797 26,26 0 0 1 41.482422,39.949219 26,26 0 0 1 77,30.433594 26,26 0 0 1 89.099609,46.224609 l -4.505859,1.207032 6.123047,6.123047 6.125,6.125 2.240234,-8.365235 2.242189,-8.365234 -4.501954,1.205078 A 34,34 0 0 0 81,23.505859 34,34 0 0 0 64.800781,18.960938 Z"
        transform="translate(0,924.36216)"
-       id="path4136" />
+       id="path4136"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

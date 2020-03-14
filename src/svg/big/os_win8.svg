@@ -14,7 +14,7 @@
    viewBox="0 0 128 128"
    id="svg4149"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="os_win8.svg"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,18 +27,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-62.571429"
-     inkscape:cy="58.452388"
+     inkscape:zoom="3.959798"
+     inkscape:cx="21.266553"
+     inkscape:cy="55.349113"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1892"
+     inkscape:window-height="1032"
+     inkscape:window-x="14"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata4154">
     <rdf:RDF>
@@ -69,7 +69,7 @@
      id="layer1"
      transform="translate(0,-924.36216)">
     <path
-       style="fill:#00aaff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#88c0d0;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="M 105 23 L 60 28.304688 L 60 62 L 105 62 L 105 23 z M 56 28.775391 L 23 32.666016 L 23 62 L 56 62 L 56 28.775391 z M 23 66 L 23 95.333984 L 56 99.224609 L 56 66 L 23 66 z M 60 66 L 60 99.695312 L 105 105 L 105 66 L 60 66 z "
        transform="translate(0,924.36216)"
        id="rect3334" />
