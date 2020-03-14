@@ -5,10 +5,10 @@ A simplistic clean and minimal theme for rEFInd using the Nord color palette
  **press F10 to take screenshot**
  
 (default settings)
-![Screenshot 01](https://raw.githubusercontent.com/bobafetthotmail/refind-theme-regular/master/src/white_theme.png )
+![Screenshot 01](https://raw.githubusercontent.com/Angalexik/refind-theme-regular/master/src/white_theme.png )
 
 (dark theme selected)
-![Screenshot 02](https://raw.githubusercontent.com/bobafetthotmail/refind-theme-regular/master/src/dark_theme.png)
+![Screenshot 02](https://raw.githubusercontent.com/Angalexik/refind-theme-regular/master/src/dark_theme.png)
 
 
 
@@ -16,7 +16,7 @@ A simplistic clean and minimal theme for rEFInd using the Nord color palette
 
 1. Just paste this command in your terminal and enter your choices.
    ```
-   sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/bobafetthotmail/refind-theme-regular/master/install.sh)"
+   sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/Angalexik/refind-theme-regular/master/install.sh)"
    ```
 2. To further adjust icon size, font size, background color and selector color edit `/boot/efi/EFI/refind/refind-theme-regular/theme.conf` as root/SuperUser.
 
@@ -24,7 +24,7 @@ A simplistic clean and minimal theme for rEFInd using the Nord color palette
 
 1. Clone git repository to your $HOME directory.
    ```
-   git clone https://github.com/bobafetthotmail/refind-theme-regular.git
+   git clone https://github.com/Angalexik/refind-theme-regular.git
    ```
 
 2. Remove unused directories and files.
